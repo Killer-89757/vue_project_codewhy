@@ -1,2 +1,4 @@
 # vue_project_codewhy
-vue的项目，使用git版本控制查看每个阶段完成的代码效果
+前端代码说明文件：[supermall](.\supermall\README.md)
+
+后端代码说明文件：[vue-supermall-backend-api](.\vue-supermall-backend-api\项目接口.md)
